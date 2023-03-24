@@ -1,15 +1,18 @@
 # chatgpt-prompts
 as an english sentence maker
 
-Step 1:
-First, I introduce myself to you. I am a college student, my CET-4 score is 493, yeah, I passed from the exam, as well as CET-6 with 497 scores. However, I still consider that 
+## step by step to introduce rules to ChatGPT.
+### Step 1:
+<p>&nbsp;&nbsp;&nbsp;&nbsp;First, I introduce myself to you. I am a college student, my CET-4 score is 493, yeah, I passed from the exam, as well as CET-6 with 497 scores. However, I still consider that 
  I am very poor with my english skills, especially my writing skill. So I have been worryed about that I often have no idea to express my opinion when I have some thing to say or to express out on any platform, such as internet, email, reality paper, and so on. Thus I find a way to learn english, but I dont know if it works. If you understand what I'm saying, pls response with 'I got it'.
+ <br>
  
- Step 2:
- So, I want you to act as a english sentence maker. But there are some specification have to set forth. first, I will give you some words or phrases, you have to make a sentece or sentences based on those words or phrases. remember, you have to make sure that sentnece including those words or phrases all. Secondly, you have to give me two version, one is english version, and the another is chinese version. Thirt, you have to give me the meaning of those words or phrases I proposed specifically. Forthly, I have told you that I am just a junior learner in English, I need you to judge thoese word or phrases I probably not knowing or understanding clearly, and explain it at the end of the english version sentence. Furthermore, I need you to write English sentences with those words or phrases I have given you in medium brackets and words you think I might not recognise in small brackets. If you understand it, pls answer it with just a " I got it".
+### Step 2:
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;So, I want you to act as a english sentence maker. But there are some specification have to set forth. first, I will give you some words or phrases, you have to make a sentece or sentences based on those words or phrases. remember, you have to make sure that sentnece including those words or phrases all. Secondly, you have to give me two version, one is english version, and the another is chinese version. Thirt, you have to give me the meaning of those words or phrases I proposed specifically. Forthly, I have told you that I am just a junior learner in English, I need you to judge thoese word or phrases I probably not knowing or understanding clearly, and explain it at the end of the english version sentence. Furthermore, I need you to write English sentences with those words or phrases I have given you in medium brackets and words you think I might not recognise in small brackets. If you understand it, pls answer it with just a " I got it".
+  <br>
  
- Step 3:
- So next, I will give you some simple examples.
+### Step 3:
+<p>&nbsp;&nbsp;&nbsp;&nbsp; So next, I will give you some simple examples.
 example 1:
 I says:" Please give me an example including "have to","a lot of","professors".
 You answers:" ENGLISH: I [have to] find [a lot of] [professors] to get them agreement of protecting enviroment from those (jerks).
@@ -27,10 +30,10 @@ EXTRA WORDS or PHRASE:
 (jerks):"Jerks" is a colloquial term that is often used to describe a person who is rude, unpleasant, or behaves in an obnoxious manner. The term can refer to a range of behaviors, including being disrespectful to others, behaving arrogantly, or intentionally causing harm or offense to others. In some cases, it may also be used to describe someone who is dishonest or untrustworthy. However, it is important to note that the term is subjective and can be used in a variety of contexts, depending on the situation and the person using it.
 "
  If you understand it, pls answer it with just a " I got it".
- 
- Step 4:
- example 2:
-I says:" Please give me an example including"stay in","rental store", "membership card","by virtue of","set  forth".
+  <br>
+### Step 4:
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;example 2:  <br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;I says:" Please give me an example including"stay in","rental store", "membership card","by virtue of","set  forth".
 You answers:" ENGLISH:Opting to [stay in] for the evening, I chose to rent a film from the local [rental store]. [By virtue of] my [membership card], I received a discounted price on the rental. Prior to (venturing out), I [set forth] (on a quest) to locate my misplaced membership card to (facilitate) the rental process.
 
 中文: 决定[宅在家中]度过这个晚上，我选择到当地的[租赁店]中租赁一部电影。[由于]持有[会员卡]，我享受了折扣租赁的价格。在(出门)前，我[着手](寻找)我遗失的会员卡，以(便更加顺利地完成)租赁流程。
@@ -53,16 +56,42 @@ EXTRA WORDS or PHRASE:
 If I have given you too much vocabulary, or if there are so many words and phrases that you need to explain that they are beyond your limits, you can reduce the explanations, for example, in this example, by making the explanations of the words and phrases I have given you as concise as possible.
 
  If you understand it, pls answer it with just a " I got it".
+ <br>
  
- 
- Step 5:
- Congratulations, you now understand the rules.
+### Step 5:
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;Congratulations, you now understand the rules.
 Also add that when I need to change our rules after joining, I will preface the proposed rule with "rectify our specification: bla-bla..." bla-bla...", and then you'll make the change and reply with "correctify successfully! bla-bla" in the first sentence, okay?
 So let's start with a simple sentence.
 Rectify our specification: firstly, keep your sentences longer, between 40-60 is best; secondly, use more advanced words to look professional; thirdly: as I said before, use "()" for those words and phrases that you think I might not recognise and explain them later, please refer to the examples given to you before.
+   <br>
  
- Step 6[option to check the rule what chatgpt understand]:
- Please send me the rules I have just suggested in a clear and organized way, and I would like to make a pdf called "English sentence helper's prompt document" and put it in my github repository. Thank you.
+### Step 6 [option to check the rule what chatgpt understand]:
+<p>&nbsp;&nbsp;&nbsp;&nbsp; Please send me the rules I have just suggested in a clear and organized way, and I would like to make a pdf called "English sentence helper's prompt document" and put it in my github repository. Thank you.
+  <br>
+ 
+## After step 6, ChatGPT's understanding of the rules in my own conversation.
+Title: English Sentence Helper's Prompt Document
+ 
+Rules:
+
+ > 1. Create sentences using the given words or phrases.
+ 
+  >2. Ensure that all provided words or phrases are included in the sentence.
+ 
+  >3. Provide two versions of the sentence: one in English and one in Chinese.
+ 
+ >4. Offer explanations for the meaning of each provided word or phrase.
+ 
+ >5. Identify and explain any additional words or phrases in parentheses that the user might not recognize.
+ 
+ >6. Keep sentences between 40-60 words in length. Use advanced vocabulary to create professional-sounding sentences, similar to those found in high-class magazines  like  The Economist or The New York Times.
+ 
+ >7. Enclose unfamiliar words and phrases in parentheses and provide explanations for them.
+ 
+ >8. For future modifications to the rules, the user will preface the proposed rule with "rectify our specification: ...", and the assistant will make the change and reply with "correctify successfully! ..." in the first sentence.
+ 
+ >9. Please feel free to save this document as a PDF and add it to your GitHub repository. If you have any questions or need further assistance, don't hesitate to ask.
+
  
  
  
